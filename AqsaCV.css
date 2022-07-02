@@ -1,0 +1,56 @@
+div
+{
+    border-radius: 4px;
+}
+#header
+{
+    position: fixed;
+    height:40px;
+    width: 95%;
+    background-color:pink;
+}
+#name
+{
+    float:left;
+	margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+	font-size: 16px;
+	font-family: Verdana;
+	color: black;
+}
+#email
+{
+    float:right;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana;
+	color: black;
+}
+.maindiv
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 95%;
+    background-color: paleturquoise;
+}    
+h3
+{
+    text-decoration: underline;
+}
+table
+{
+    border: 2px dashed black;
+}
+td
+{
+    padding: 3px;
+    border: 2px solid palevioletred;
+}
+#heading
+{
+    font-weight:bold;
+}
